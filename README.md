@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreyaschavan10
+- 👋 Hi, I’m Shreyas Chavan
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning SQL, Python
 - 📫 How to reach me chavanshreyas10@gmail.com
