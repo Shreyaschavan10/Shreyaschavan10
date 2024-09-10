@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shreyas Chavan
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning SQL, Python
-- 📫 How to reach me chavanshreyas10@gmail.com
+- 📫 Reach me at chavanshreyas10@gmail.com
 
 <!---
 Shreyaschavan10/Shreyaschavan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
