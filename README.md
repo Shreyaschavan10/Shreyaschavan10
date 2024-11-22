@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shreyas Chavan
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning SQL, Python
+- 👀 a passionate Data Scientist  
 - 📫 Reach me at chavanshreyas10@gmail.com
 
 ---
