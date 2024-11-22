@@ -14,7 +14,7 @@
 
 | **Domain**       | **Skills/Tools**       | **Projects**       |
 |-------------------|------------------------|--------------------|
-| **EDA on Covid-19 Data set**                   | - SQL, MySQL                        |                    |
+| **EDA on Covid-19 Data set**                   | - SQL <br> MySQL                        |                    |
 |                   |                        |                    |
 |                   |                        |                    |
 |                   |                        |                    |
