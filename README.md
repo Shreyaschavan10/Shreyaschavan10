@@ -11,7 +11,7 @@
 
 ## Skills and Projects
 
-| **Domain**       | **Skills/Tools**       | **Projects**       |
+| **Domain**       | **Skills/Tools**       | **Projects**                                                                                                                                                                                   |
 |-------------------|------------------------|--------------------|
 | **EDA on Covid-19 Data set**                   | - SQL <br> -MySQL                        |                    |
 |                   |                        |                    |
