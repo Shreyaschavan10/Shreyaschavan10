@@ -13,8 +13,8 @@
 
 | **Domain**       | **Skills/Tools**       | **Projects**        |
 |-------------------|------------------------|--------------------|
-| **EDA on Covid-19 Data set**                   | - SQL <br> -MySQL                        |                    |
-|**IBM Data Science Capstone** <br> Space X Falcon 9 First Stage Landing Prediction                  |  - Machine Learning <br>- Predictive Analysis <br> -Classfication                        |                    |
+| **EDA on Covid-19 Data set**                   | - SQL <br> - MySQL                        |                    |
+|**IBM Data Science Capstone** <br> Space X Falcon 9 First Stage Landing Prediction                  |  - Machine Learning <br>- Predictive Analysis <br> - Classfication                        |                    |
 |**Programming Language**                   |                        |                    |
 |                   |                        |                    |
 
