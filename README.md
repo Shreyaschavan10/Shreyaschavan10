@@ -18,7 +18,7 @@
 |**Exploratory Data Analysis on Car Database**   | - MySQL Workbench <br>  - Joins <br>- Views <br> - Common Table       Expressions     | [Exploratory Data Analysis of Car Database](https://github.com/Shreyaschavan10/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench)
 |**Parkinson's Disease Detection**                  |                        |                    |
 |**Customer Churn Analysis**| - Machine Learning <br> - Feature Engineering| [Customer Churn Analysis with Python](https://github.com/Shreyaschavan10/Customer-Churn-Analysis)|
-|**Programming Language**                    |                        |                    |
+
 
 ---
 
