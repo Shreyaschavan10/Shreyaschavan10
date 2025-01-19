@@ -14,7 +14,7 @@
 |**Exploratory Data Analysis on Car Database**                                     |- MySQL Workbench <br>  - Joins <br>- Views <br> - Common Table Expressions                                    |[Exploratory Data Analysis of Car Database](https://github.com/Shreyaschavan10/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench)
 |**Parkinson's Disease Detection**                                                 |- Machine Learning                                                                                             |[Parkinson's Disease Detection with Machine Learning](https://github.com/Shreyaschavan10/Parkinson-s-Disease-Detection-with-Machine-Learning)                    |
 |**Customer Churn Analysis**                                                       | - Machine Learning <br> - Feature Engineering                                                                 |[Customer Churn Analysis with Python](https://github.com/Shreyaschavan10/Customer-Churn-Analysis)|
-|**SQL-ZOO** <br> Excercises                                                                      |- Select within Select <br> - Aggregate Functions<br> - Joins <br> - Window Functions                          |
+|**SQL-ZOO** <br> Excercises                                                                      |- Select within Select <br> - Aggregate Functions<br> - Joins <br> - Window Functions           |[Solved Problems](https://github.com/Shreyaschavan10/SQL_Zoo)
 
 ---
 
