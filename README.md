@@ -5,7 +5,7 @@
 ### Profile views
 ![Profile views](https://komarev.com/ghpvc/?username=Shreyaschavan10&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3 align="center"> My projects and Technical Skills</h3>
+<h2 align="center"> My Projects and Technical Skills</h2>
 
 | **Domain**                                                                       | **Skills/Tools**                                                                                              | **Projects**        |
 |-------------------                                                               |------------------------                                                                                       |-------------------- |  
@@ -18,8 +18,18 @@
 
 ---
 
-### Profile views
-![Profile views](https://komarev.com/ghpvc/?username=Shreyaschavan10&label=Profile%20views&color=0e75b6&style=flat)
+<h3 align="center">
+<a href="https://github.com/Shreyaschavan10">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shreyaschavan10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shreyaschavan10&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</h3>
+
+
 
 
 <h3 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyaschavan10&" alt="Shreyaschavan10" /></h3>
+
+
+### Profile views
+![Profile views](https://komarev.com/ghpvc/?username=Shreyaschavan10&label=Profile%20views&color=0e75b6&style=flat)
