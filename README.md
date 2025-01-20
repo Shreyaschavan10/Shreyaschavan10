@@ -20,3 +20,6 @@
 
 ### Profile views
 ![Profile views](https://komarev.com/ghpvc/?username=Shreyaschavan10&label=Profile%20views&color=0e75b6&style=flat)
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyaschavan10&" alt="Shreyaschavan10" /></p>
