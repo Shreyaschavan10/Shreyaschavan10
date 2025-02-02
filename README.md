@@ -22,7 +22,7 @@
 
 <h3 align="left">
 <a href="https://github.com/Shreyaschavan10">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shreyaschavan10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shreyaschavan10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </a>
 </h3>
