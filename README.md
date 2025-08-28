@@ -3,7 +3,7 @@
   <h3 align="center">Data Analyst /Data Scientist</h3>
 
 ### Profile views
-![Profile views](https://komarev.com/ghpvc/?username=Shreyaschavan10&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Shreyaschavan10&label=Profile%20views&color=brightgreen&style=plastic)
 
 <h2 align="center"> My Projects and Technical Skills</h2>  
 
